@@ -1,0 +1,9 @@
+@media(min-width:100px){
+.header_r{display:none;}
+}
+
+@media(max-width:600px)
+{
+.header{display:none;}
+.header_r{display:block;}
+}
