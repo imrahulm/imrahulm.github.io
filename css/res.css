@@ -6,4 +6,6 @@
 {
 .header{display:none;}
 .header_r{display:block;}
+.trend{ width:100%; text-align:center; border-bottom: 1px solid #f1f1f1;}
+.wall{ width:100%;}
 }
