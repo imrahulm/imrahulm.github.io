@@ -1,11 +1,10 @@
 @media(min-width:100px){
-.header_r{display:none;}
+.head_r{ display:none;}
 }
 
 @media(max-width:600px)
 {
-.header{display:none;}
-.header_r{display:block;}
-.trend{ width:100%; text-align:center; border-bottom: 1px solid #f1f1f1;}
-.wall{ width:100%;}
+.head{ display:none;}
+.head_r{ display:block;}
+.box{ width:100%; margin:5px 1px;}
 }
