@@ -50,7 +50,7 @@ body{ margin:0px; padding:0px;}
 	.mainMenu > ul {width:108%; margin:3px; padding:0; list-style:none; float:left; overflow-y: hidden; max-height:0;  margin-left:-12px;}
 .tom{ color:#fff; font-family:Courier New; float:right; margin:3px; font-size: 25px; cursor:pointer;}
 .tog_menu{  border-bottom:1px solid #1D91C8;}
-.tog_menu>li{ text-align:center; padding:6px;}
+.tog_menu>li{ text-align:center; padding:6px; border-top:1px solid #1D91C8;}
 .tog_menu>li:hover{ background-color:#EEF3F8;}
 .a{ color:#46535A; text-decoration:none; font-family:Courier New; font-size:18px;}
 .a:hover{color:#000;}
